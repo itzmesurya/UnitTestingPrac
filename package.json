@@ -1,0 +1,22 @@
+{
+  "name": "unittestingprac",
+  "version": "1.0.0",
+  "description": "Surya learning TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzmesurya/UnitTestingPrac.git"
+  },
+  "author": "Surya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itzmesurya/UnitTestingPrac/issues"
+  },
+  "homepage": "https://github.com/itzmesurya/UnitTestingPrac#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
